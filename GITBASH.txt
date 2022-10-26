@@ -1,0 +1,9 @@
+git init
+
+git add -A
+
+git commit -m "my first"
+
+CREAR REPO EN GITHUB
+
+

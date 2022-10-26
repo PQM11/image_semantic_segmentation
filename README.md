@@ -1,1 +1,0 @@
-# image_semantic_segmentation
