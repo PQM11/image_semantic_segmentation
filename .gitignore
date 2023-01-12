@@ -1,1 +1,12 @@
 workspace/
+workspace_2/
+i_segment_env/
+.vscode/
+landcover_5_epochs_RESNET_backbone_batch5.hdf5
+landcover_25_epochs_RESNET_backbone_batch16.hdf5
+landcover_50_epochs_RESNET_backbone_batch5.hdf5
+Figure_1.png
+Figure_2.png
+IoU_Graphic_50.png
+Loss_Graphic_50.png
+GDAL-3.3.3-cp39-cp39-win_amd64.whl
