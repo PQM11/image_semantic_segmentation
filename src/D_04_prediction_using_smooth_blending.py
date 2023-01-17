@@ -1,6 +1,5 @@
 # https://youtu.be/0W6MKZqSke8
 """
-Author: Dr. Sreenivas Bhattiprolu 
 Prediction using smooth tiling as described here...
 https://github.com/Vooban/Smoothly-Blend-Image-Patches
 """

@@ -1,8 +1,5 @@
-# https://youtu.be/0W6MKZqSke8
+
 """
-Author: Dr. Sreenivas Bhattiprolu 
-The following code performs these tasks - relevant to work with landcover dataset
-from here: https://landcover.ai/
 Code can be modified to work with any other dataset.
 Tasks achieved.
 1. Read large images and corresponding masks, divide them into smaller patches.
@@ -12,7 +9,7 @@ Using blank images with label=0 is a waste of time and may bias the model toward
 unlabeled pixels.
  * Maybe not neccesary to do it in my case
 3. Divide the sorted dataset from above into train and validation datasets. 
-4. You have to manually move some folders and rename appropriately if you want to use 
+4. Move some folders and rename appropriately if you want to use 
 ImageDataGenerator from keras. 
 """
 import warnings

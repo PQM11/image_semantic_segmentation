@@ -1,6 +1,4 @@
-# https://youtu.be/0W6MKZqSke8
 """
-Author: Dr. Sreenivas Bhattiprolu 
 This code can be used to perform semantic segmentation of aerial / satellite 
 images, especially the dataset from landcover.ai
 Dataset from : https://landcover.ai/

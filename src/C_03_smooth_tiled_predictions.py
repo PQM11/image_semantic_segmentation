@@ -1,7 +1,6 @@
 # https://youtu.be/0W6MKZqSke8
 
 """
-Author: Dr. Sreenivas Bhattiprolu 
 Original code is from the following source. It comes with MIT License so please mention
 the original reference when sharing.
 The original code has been modified to fix a couple of bugs and chunks of code
